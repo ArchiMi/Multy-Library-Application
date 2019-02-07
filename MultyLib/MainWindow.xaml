@@ -28,12 +28,12 @@
         <Grid/>
         <DataGrid x:Name="dataGrid" Margin="10" AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False">
             <DataGrid.Columns>
-                <DataGridTextColumn Width="1*" Header="№ Транзакции" Binding="{Binding  TransactNum}"/>
+                <DataGridTextColumn Width="1*" Header="№ операции" Binding="{Binding  TransactNum}"/>
                 <DataGridTextColumn Width="1*" Header="Дата и время" Binding="{Binding DataTime, StringFormat={}{0:dd.MM.yyyy H:mm:ss}}"/>
                 <DataGridTextColumn Width="1.5*" Header="Результат" Binding="{Binding Result}"/>
                 <DataGridTextColumn Width="0.5*" Header="Тип операции" Binding="{Binding OperationType}"/>
-                <DataGridTextColumn Width="0.5*" Header="Кнп" Binding="{Binding KNP}"/>
-                <DataGridTextColumn Width="0.25*" Header="Шлюз" Binding="{Binding Gate}"/>
+                <DataGridTextColumn Width="0.5*" Header="Уникальный номер ответа" Binding="{Binding KNP}"/>
+                <DataGridTextColumn Width="0.25*" Header="Сервис" Binding="{Binding Gate}"/>
             </DataGrid.Columns>
         </DataGrid>
     </Grid>

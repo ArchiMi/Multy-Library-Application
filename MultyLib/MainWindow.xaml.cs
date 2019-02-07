@@ -101,7 +101,7 @@ namespace MultyLibraryApplication
             }
             catch (Exception)
             {
-                
+                //
             }
         }
 
@@ -119,7 +119,7 @@ namespace MultyLibraryApplication
             }
             catch (Exception)
             {
-
+                //
             }
         }
     }

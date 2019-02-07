@@ -1,0 +1,7 @@
+C:\Users\andrey\Documents\Project\MultyLibApp\MultyLib\bin\x64\Debug\AdditionalLibrary.dll
+C:\Users\andrey\Documents\Project\MultyLibApp\MultyLib\bin\x64\Debug\AdditionalLibrary.pdb
+C:\Users\andrey\Documents\Project\MultyLibApp\AdditionalLibrary\obj\x64\Debug\Additional.Properties.Resources.resources
+C:\Users\andrey\Documents\Project\MultyLibApp\AdditionalLibrary\obj\x64\Debug\AdditionalLibrary.csproj.GenerateResource.Cache
+C:\Users\andrey\Documents\Project\MultyLibApp\AdditionalLibrary\obj\x64\Debug\AdditionalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Documents\Project\MultyLibApp\AdditionalLibrary\obj\x64\Debug\AdditionalLibrary.dll
+C:\Users\andrey\Documents\Project\MultyLibApp\AdditionalLibrary\obj\x64\Debug\AdditionalLibrary.pdb

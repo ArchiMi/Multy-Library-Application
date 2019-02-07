@@ -33,14 +33,14 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <PlatformTarget>x86</PlatformTarget>
-    <OutputPath>..\RotorApp\RotorApp\bin\x86\Debug\Gateways\</OutputPath>
+    <OutputPath>..\MultyLib\bin\x86\Debug\Gateways\</OutputPath>
     <DefineConstants>DEBUG;VirtualServise</DefineConstants>
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
     <Optimize>false</Optimize>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
     <PlatformTarget>x86</PlatformTarget>
-    <OutputPath>..\RotorApp\RotorApp\bin\x86\Release\Gateways\</OutputPath>
+    <OutputPath>..\MultyLib\bin\x86\Release\Gateways\</OutputPath>
     <DefineConstants>RELEASE</DefineConstants>
     <Optimize>true</Optimize>
   </PropertyGroup>

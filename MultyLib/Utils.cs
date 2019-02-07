@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using System.Windows.Controls;
 using System.Diagnostics;
 using System.Threading;
-using Newtonsoft.Json;
 using System.IO;
 using System.Reflection;
 using Additional;

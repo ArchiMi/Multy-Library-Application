@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,12 +19,6 @@ namespace Additional
         public static string HelperSourceName
         {
             get { return "Additional Library"; }
-        }
-
-        public static Dictionary<string, string> JsonToDictionary(string fieldsStr)
-        {
-            Dictionary<string, string> fields = JsonConvert.DeserializeObject<Dictionary<string, string>>(fieldsStr);
-            return fields;
         }
     }
 }

@@ -17,7 +17,6 @@ namespace MultyLibraryApplication
         private DataGrid dataGrid;
         private Plugins plugins;
         private List<InfoTransact> transactCollection;
-        //private string newTransact = DateTime.Now.ToString("yyyyMMddhhmmssfff");
         private string hows;
 
         public UIUtils(DataGrid dataGrid, Plugins plugins, List<InfoTransact> transactCollection)
@@ -139,11 +138,6 @@ namespace MultyLibraryApplication
             return dict;
         }
 
-        private void UpdateTransactionToWait(string transact)
-        {
-            
-        }
-
         private async void ProcessingTransactionAsync(KeyValuePair<string, string> transact)
         {
             try
@@ -163,7 +157,7 @@ namespace MultyLibraryApplication
             }
             catch (Exception)
             {
-
+                //
             }
         }
 
@@ -175,7 +169,7 @@ namespace MultyLibraryApplication
                 {
                     TransactNum = transact.Key,
                     DataTime = DateTime.Now,
-                    Result = "",
+                    Result = "Wait . . . ",
                     OperationType = transact.Value,
                     UnicNum = "",
                     Gate = "",
@@ -248,7 +242,7 @@ namespace MultyLibraryApplication
 
         private string NewTransact()
         {
-            return DateTime.Now.ToString("yyyyMMddhhmmssfff");
+            return DateTime.Now.ToString("fffyyMMddhhmmssfff");
         }
 
         private OperationValues GetTransactionValues(string transact, string cmd /*, ref string requestFields*/)
@@ -256,7 +250,6 @@ namespace MultyLibraryApplication
             try
             {
                 OperationValues trava = new OperationValues();
-                string commandText = $"SELECT fields, how, how_point, id, fields_history, try, next_try_date  FROM exchange WHERE transact = '{transact}'";
 
                 //TEST DATA
                 Random rnd = new Random();

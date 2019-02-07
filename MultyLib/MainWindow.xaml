@@ -11,13 +11,13 @@
         <Style TargetType="{x:Type DataGridRow}">
             <Style.Triggers>
                 <DataTrigger Binding="{Binding Status}" Value="Error">
-                    <Setter Property="Background" Value="#FFFFA7B0"/>
+                    <Setter Property="Background" Value="#FF7d2a2a"/>
                 </DataTrigger>
                 <DataTrigger Binding="{Binding Status}" Value="Wait">
-                    <Setter Property="Background" Value="#FFFFBC7D"/>
+                    <Setter Property="Background" Value="#FFd8e65a"/>
                 </DataTrigger>
                 <DataTrigger Binding="{Binding Status}" Value="Ok">
-                    <Setter Property="Background" Value="#FFBBFFBB"/>
+                    <Setter Property="Background" Value="#FF44991a"/>
                 </DataTrigger>
             </Style.Triggers>
         </Style>

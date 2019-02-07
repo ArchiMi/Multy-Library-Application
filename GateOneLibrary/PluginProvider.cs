@@ -43,11 +43,6 @@ namespace Gate
             get { return Config.howCode; }
         }
 
-        public string LogPath
-        {
-            get { return "dsad"; }
-        }
-
         public int Count => throw new NotImplementedException();
     }
 }

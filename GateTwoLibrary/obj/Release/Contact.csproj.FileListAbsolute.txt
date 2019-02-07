@@ -1,3 +1,0 @@
-C:\Project\Contact\obj\Release\Contact.csprojResolveAssemblyReference.cache
-C:\Project\Contact\obj\Release\Interop.MesProWrp.dll
-C:\Project\Contact\obj\Release\Contact.csproj.ResolveComReference.cache

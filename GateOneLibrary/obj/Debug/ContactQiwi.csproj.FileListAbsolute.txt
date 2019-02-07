@@ -1,7 +1,0 @@
-C:\Project\RotorApp\RotorApp\bin\Debug\Gateways\ContactQiwi.dll.config
-C:\Project\RotorApp\RotorApp\bin\Debug\Gateways\ContactQiwi.dll
-C:\Project\RotorApp\RotorApp\bin\Debug\Gateways\ContactQiwi.pdb
-C:\Project\ContactQiwi\obj\Debug\ContactQiwi.csprojResolveAssemblyReference.cache
-C:\Project\ContactQiwi\obj\Debug\ContactQiwi.csproj.CoreCompileInputs.cache
-C:\Project\ContactQiwi\obj\Debug\ContactQiwi.dll
-C:\Project\ContactQiwi\obj\Debug\ContactQiwi.pdb

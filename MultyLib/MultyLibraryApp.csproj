@@ -150,12 +150,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Img\Log.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Img\icon.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.5 %28x86 и x64%29</ProductName>

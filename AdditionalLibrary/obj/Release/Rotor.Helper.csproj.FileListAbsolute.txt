@@ -1,8 +1,0 @@
-C:\Project\Rotor\bin\Release\Rotor.Helper.dll
-C:\Project\Rotor\bin\Release\Rotor.Helper.pdb
-C:\Project\RotorApp\RotorApp\Rotor.Helper.dll
-C:\Project\RotorApp\RotorApp\Rotor.Helper.pdb
-C:\Project\Rotor.Helper\obj\Release\Helper.Properties.Resources.resources
-C:\Project\Rotor.Helper\obj\Release\Rotor.Helper.csproj.GenerateResource.Cache
-C:\Project\Rotor.Helper\obj\Release\Rotor.Helper.dll
-C:\Project\Rotor.Helper\obj\Release\Rotor.Helper.pdb

@@ -1,0 +1,15 @@
+C:\Project\Rotor.Helper\bin\Debug\Rotor.Helper.dll
+C:\Project\Rotor.Helper\bin\Debug\Rotor.Helper.pdb
+C:\Project\Rotor.Helper\bin\Debug\Ionic.Zlib.dll
+C:\Project\Rotor.Helper\bin\Debug\MySql.Data.dll
+C:\Project\Rotor.Helper\bin\Debug\Newtonsoft.Json.dll
+C:\Project\Rotor.Helper\bin\Debug\System.Data.SQLite.dll
+C:\Project\Test\Rotor\RotorApp\bin\Debug\Rotor.Helper.dll
+C:\Project\Test\Rotor\RotorApp\bin\Debug\Rotor.Helper.pdb
+C:\Project\RotorApp\RotorApp\Rotor.Helper.dll
+C:\Project\RotorApp\RotorApp\Rotor.Helper.pdb
+C:\Project\Rotor.Helper\obj\Debug\Helper.Properties.Resources.resources
+C:\Project\Rotor.Helper\obj\Debug\Rotor.Helper.csproj.GenerateResource.Cache
+C:\Project\Rotor.Helper\obj\Debug\Rotor.Helper.csproj.CoreCompileInputs.cache
+C:\Project\Rotor.Helper\obj\Debug\Rotor.Helper.dll
+C:\Project\Rotor.Helper\obj\Debug\Rotor.Helper.pdb

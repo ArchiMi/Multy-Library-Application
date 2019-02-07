@@ -1,0 +1,15 @@
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\App.g.cs
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\MainWindow.baml
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\RotorApp.Properties.Resources.resources
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\MultyLibApp.csproj.GenerateResource.Cache
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\MultyLibApp.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\bin\x86\Debug\MultyLibraryApp.exe.config
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\bin\x86\Debug\MultyLibraryApp.exe
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\bin\x86\Debug\MultyLibraryApp.pdb
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\MultyLibraryApp_MarkupCompile.cache
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\MultyLibraryApp_MarkupCompile.lref
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\MultyLibraryApp.g.resources
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\MultyLibraryApp.exe
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\obj\x86\Debug\MultyLibraryApp.pdb

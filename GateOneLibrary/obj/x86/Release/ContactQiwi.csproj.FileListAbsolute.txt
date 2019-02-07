@@ -1,0 +1,7 @@
+C:\Project\Rotor\bin\x86\Release\Gateways\ContactQiwi.dll.config
+C:\Project\Rotor\bin\x86\Release\Gateways\ContactQiwi.dll
+C:\Project\ContactQiwi\obj\x86\Release\ContactQiwi.csprojResolveAssemblyReference.cache
+C:\Project\ContactQiwi\obj\x86\Release\ContactQiwi.csproj.CoreCompileInputs.cache
+C:\Project\ContactQiwi\obj\x86\Release\ContactQiwi.dll
+C:\Project\RotorApp\RotorApp\bin\x86\Release\Gateways\ContactQiwi.dll.config
+C:\Project\RotorApp\RotorApp\bin\x86\Release\Gateways\ContactQiwi.dll

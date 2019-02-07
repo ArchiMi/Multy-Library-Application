@@ -1,0 +1,40 @@
+﻿<Window x:Name="mainWindow" x:Class="MultyLibraryApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultyLibraryApplication"
+        mc:Ignorable="d"
+        Height="627.941" 
+        Width="737.333">
+    <Window.Resources>
+        <Style TargetType="{x:Type DataGridRow}">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding Status}" Value="Error">
+                    <Setter Property="Background" Value="#FFFFA7B0"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding Status}" Value="Wait">
+                    <Setter Property="Background" Value="#FFFFBC7D"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding Status}" Value="Ok">
+                    <Setter Property="Background" Value="#FFBBFFBB"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    
+    <Grid>
+        <Grid/>
+        <DataGrid x:Name="dataGrid" Margin="10" AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="1*" Header="№ Транзакции" Binding="{Binding  TransactNum}"/>
+                <DataGridTextColumn Width="1*" Header="Дата и время" Binding="{Binding DataTime, StringFormat={}{0:dd.MM.yyyy H:mm:ss}}"/>
+                <DataGridTextColumn Width="1.5*" Header="Результат" Binding="{Binding Result}"/>
+                <DataGridTextColumn Width="0.5*" Header="Тип операции" Binding="{Binding OperationType}"/>
+                <DataGridTextColumn Width="0.5*" Header="Кнп" Binding="{Binding KNP}"/>
+                <DataGridTextColumn Width="0.25*" Header="Шлюз" Binding="{Binding Gate}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

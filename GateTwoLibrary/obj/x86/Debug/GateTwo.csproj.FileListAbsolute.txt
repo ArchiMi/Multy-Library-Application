@@ -1,0 +1,7 @@
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\bin\x86\Debug\Gateways\GateLibraryTwo.dll.config
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\bin\x86\Debug\Gateways\GateLibraryTwo.dll
+C:\Users\andrey\Documents\Project\MultyLib\RotorApp\RotorApp\bin\x86\Debug\Gateways\GateLibraryTwo.pdb
+C:\Users\andrey\Documents\Project\MultyLib\GateTwoLibrary\obj\x86\Debug\GateTwo.csprojResolveAssemblyReference.cache
+C:\Users\andrey\Documents\Project\MultyLib\GateTwoLibrary\obj\x86\Debug\GateTwo.csproj.CoreCompileInputs.cache
+C:\Users\andrey\Documents\Project\MultyLib\GateTwoLibrary\obj\x86\Debug\GateLibraryTwo.dll
+C:\Users\andrey\Documents\Project\MultyLib\GateTwoLibrary\obj\x86\Debug\GateLibraryTwo.pdb

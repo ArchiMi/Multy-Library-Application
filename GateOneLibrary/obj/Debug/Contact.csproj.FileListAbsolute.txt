@@ -1,0 +1,13 @@
+S:\Repo\Contact\bin\Debug\Contact.dll.config
+S:\Repo\Contact\bin\Debug\Contact.dll
+S:\Repo\Contact\bin\Debug\Contact.pdb
+S:\Repo\Contact\bin\Debug\Ionic.Zlib.dll
+S:\Repo\Contact\bin\Debug\MySql.Data.dll
+S:\Repo\Contact\bin\Debug\Newtonsoft.Json.dll
+S:\Repo\Contact\bin\Debug\Rotor.Helper.dll
+S:\Repo\Contact\bin\Debug\System.Data.SQLite.dll
+S:\Repo\Contact\bin\Debug\Rotor.Helper.pdb
+S:\Repo\Contact\obj\Debug\Interop.MesProWrp.dll
+S:\Repo\Contact\obj\Debug\Contact.csproj.ResolveComReference.cache
+S:\Repo\Contact\obj\Debug\Contact.dll
+S:\Repo\Contact\obj\Debug\Contact.pdb

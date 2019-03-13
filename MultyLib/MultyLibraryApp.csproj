@@ -168,6 +168,17 @@
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>DEL $(TargetDir)GateWays\AdditionalLibrary.dll
+DEL $(TargetDir)GateWays\AdditionalLibrary.pdb
+
+DEL $(TargetDir)GateWays\GateLibraryOne.dll.config
+DEL $(TargetDir)GateWays\GateLibraryOne.pdb
+
+DEL $(TargetDir)GateWays\GateLibraryTwo.dll.config
+DEL $(TargetDir)GateWays\GateLibraryTwo.pdb
+</PostBuildEvent>
+  </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
